@@ -1,3 +1,4 @@
+# Día 2
 # Crearemos una calculadora de propina utilizando 
 # diferentes tipos da datos y que entregue el resultado con dos decimales
 
