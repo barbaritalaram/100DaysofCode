@@ -5,6 +5,12 @@
 Como no tengo tanto tiempo para inventar de 0 los proyectos, estoy haciendo el curso de Udemy de la Dr.Angela Yu. Si no entiendes los proyectos, les recomiendo totalmente hacer el curso paso a paso. 
 Les dejo el link <https://www.udemy.com/course/100-days-of-code/>
 
+## Lista de Proyectos
+- Día 1: ¿cómo contar la cantidad de caracteres de un nombre ingresado?
+- Día 2: calculadora de propina entregando resultado con dos decimales
+- Día 3: Juego Treasure Island
+
+
 Si quieres apoyarme siempre puedes enviar un [cafecito][cafecito] :coffee:
 
 Hecho con :hearts: en español :octocat:
