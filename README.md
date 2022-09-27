@@ -9,6 +9,7 @@ Les dejo el link <https://www.udemy.com/course/100-days-of-code/>
 - Día 1: ¿cómo contar la cantidad de caracteres de un nombre ingresado?
 - Día 2: calculadora de propina entregando resultado con dos decimales
 - Día 3: Juego Treasure Island
+- Día 4: Juego Cachipún o Pieda, Papel o Tijera
 
 
 Si quieres apoyarme siempre puedes enviar un [cafecito][cafecito] :coffee:

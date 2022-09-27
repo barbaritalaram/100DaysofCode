@@ -18,7 +18,7 @@ papel = '''
 ---.__________)
 '''
 
-tijeras = '''
+tijera = '''
     _______
 ---'   ____)____
           ______)
@@ -26,9 +26,9 @@ tijeras = '''
       (____)
 ---.__(___)
 '''
-manos = [piedra, papel, tijeras]
+manos = [piedra, papel, tijera]
 
-opcionUsuario = int(input("Cachipún! Tipea 0 para Piedra, 1 para Papel o 2 para Tijeras.\n"))
+opcionUsuario = int(input("Cachipún! Tipea 0 para Piedra, 1 para Papel o 2 para tijera.\n"))
 if opcionUsuario >= 3 or opcionUsuario < 0: 
     print("Elegiste una opción no válida, perdiste!") 
     # si eliges fuera del rango permitido pierdes!
