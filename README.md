@@ -14,6 +14,7 @@ Les dejo el link <https://www.udemy.com/course/100-days-of-code/>
 - Día 6: Laberinto con Reeborg
 - Día 7: Juego Ahorcado / Hangman
 - Día 8: Cifrado César
+- Día 9: Subasta
 
 
 Si quieres apoyarme siempre puedes enviar un [cafecito][cafecito] :coffee:
