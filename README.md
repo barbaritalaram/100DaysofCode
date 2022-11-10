@@ -18,6 +18,7 @@ Les dejo el link <https://www.udemy.com/course/100-days-of-code/>
 - Día 10: Calculadora
 - Día 11: Blackjacks
 - Día 12: Adivina el Número
+- Día 13: Aprende a Debuggear!
 
 
 Si quieres apoyarme siempre puedes enviar un [cafecito][cafecito] :coffee:
